@@ -6,12 +6,7 @@ Arraste as pastas de cada câmera e do gravador, clique em Sincronizar e assista
 
 ## Baixar
 
-Página de download: https://apps.weddingflow.com.br/sincro/
-
-Ou direto pelas [versões](../../releases/latest):
-
-- **Mac** (macOS 14 Sonoma ou mais novo, Apple Silicon e Intel): `Sincro.dmg`
-- **Windows** (10 e 11, 64 bits): em breve
+Em breve disponível para download, para Mac e Windows: https://apps.weddingflow.com.br/sincro/
 
 É uma versão beta: se algum material não sincronizar direito, conte pra gente no Instagram [@crio.apps](https://www.instagram.com/crio.apps/).
 
